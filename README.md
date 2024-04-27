@@ -66,6 +66,8 @@
   </tbody>
 </table>
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=GabrielaAguiarMarquez.GabrielaAguiarMarquez&color=00cf00)
+
 
 
 
